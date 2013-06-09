@@ -1,0 +1,13 @@
+{
+  "name": "flambe-server",
+  "license": "MIT",
+  "tags": ["game","javascript","js","nodejs"],
+  "description": "Tools for writing servers for Flambe clients.",
+  "contributors": ["Aduros"],
+  "releasenote": "See https://github.com/aduros/flambe-server/wiki/Changes",
+  "version": "1.0.0",
+  "url": "https://github.com/aduros/flambe-server",
+  "dependencies": {
+    "flambe": "",
+  }
+}
